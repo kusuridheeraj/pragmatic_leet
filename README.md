@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
