@@ -74,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
