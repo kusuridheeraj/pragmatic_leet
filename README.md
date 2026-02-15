@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
