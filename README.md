@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/1108-defanging-an-ip-address) |
 ## Array
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
