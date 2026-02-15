@@ -10,10 +10,10 @@
  * };
  */
 class Solution {
-public:
 
     int solution = 0;
 
+private:
     int height(TreeNode* root){
         if(root == nullptr){
             return 0;
@@ -25,6 +25,7 @@ public:
         return 1+ max(left,right);
     }
 
+public:
     int diameterOfBinaryTree(TreeNode* root) {
         height(root);
         return solution;
