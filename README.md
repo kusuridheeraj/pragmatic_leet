@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
