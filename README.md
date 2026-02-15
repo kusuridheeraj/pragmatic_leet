@@ -50,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
