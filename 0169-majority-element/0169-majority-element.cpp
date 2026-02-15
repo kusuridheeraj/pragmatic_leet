@@ -2,17 +2,13 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         map<int,int> freq;
+        int n = nums.size();
         for(int x : nums){
             freq[x]++;
-        }
-        int n = nums.size(),value, count;
-        for(auto x : freq){
-            value = x.first;
-            count = x.second;
-            if(count > n/2){
-                return x.first;
+            if(freq[x] > n/2){
+                return x;
             }
         }
-        return 0;
+        return -1;
     }
 };
