@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
 ## Binary Search Tree
 |  |
 | ------- |
