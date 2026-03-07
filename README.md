@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
+| [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/1108-defanging-an-ip-address) |
 ## Array
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0338-counting-bits) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
