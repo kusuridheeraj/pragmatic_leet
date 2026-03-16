@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
