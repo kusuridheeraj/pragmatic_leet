@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 ## Memoization
