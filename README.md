@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0371-sum-of-two-integers) |
 ## Memoization
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0371-sum-of-two-integers) |
 ## Simulation
 |  |
 | ------- |
