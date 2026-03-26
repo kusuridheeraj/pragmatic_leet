@@ -5,12 +5,12 @@ public:
         for(int i =0;i<9;i++){
             for(int j=0;j<9;j++){
                 int boxIndex = (i/3)*3 + (j/3);
-                int val = board[i][j];
+                char val = board[i][j];
 
                 if(val == '.'){
                     continue;
                 }
-                
+
                 if(row[i].count(val)|| col[j].count(val)|| box[boxIndex].count(val)){
                     return false;
                 }
