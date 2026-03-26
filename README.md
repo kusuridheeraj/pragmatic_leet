@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
+| [0977-squares-of-a-sorted-array](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Design
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search Tree
 |  |
 | ------- |
