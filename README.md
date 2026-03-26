@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/1108-defanging-an-ip-address) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 ## Stack
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
