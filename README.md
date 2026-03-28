@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0383-ransom-note) |
 | [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
