@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
