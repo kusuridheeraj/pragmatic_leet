@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
@@ -240,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
