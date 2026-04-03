@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0853-car-fleet) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search Tree
 |  |
@@ -251,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/kusuridheeraj/pragmatic_leet/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
